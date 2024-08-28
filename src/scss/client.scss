@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "irsans";
+  font-style: normal;
+  font-weight: 100;
+  src: url("./fonts/irsans-l.woff") format("woff"),
+  url("./fonts/irsans-l.ttf") format("truetype");
+}
+@font-face {
+  font-family: "irsans";
+  font-style: normal;
+  font-weight: 500;
+  src: url("./fonts/irsans-m.woff") format("woff"),
+  url("./fonts/irsans-m.ttf") format("truetype");
+}
+@font-face {
+  font-family: "irsans";
+  font-style: normal;
+  font-weight: 900;
+  src: url("./fonts/irsans-b.woff") format("woff"),
+  url("./fonts/irsans-b.ttf") format("ttf");
+}
+
+@import "./icons/webfonts-brand/uicons-brands.css";
+@import "./icons/webfonts-regural/uicons-regular-rounded.css";
+@import "client/define";
+@import "client/index";
