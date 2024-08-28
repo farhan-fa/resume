@@ -1,0 +1,4 @@
+# farhan resume
+```
+const result = '';
+```
